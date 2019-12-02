@@ -1,0 +1,24 @@
+{
+  "name": "teamtrees",
+  "version": "1.0.0",
+  "description": "A 3D rending of trees donated to Team Trees",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacobRichardson/teamtrees.git"
+  },
+  "keywords": [
+    "Team",
+    "Trees",
+    "Threejs"
+  ],
+  "author": "Jacob Richardson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JacobRichardson/teamtrees/issues"
+  },
+  "homepage": "https://github.com/JacobRichardson/teamtrees#readme"
+}
